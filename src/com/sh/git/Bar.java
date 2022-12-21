@@ -6,7 +6,4 @@ public class Bar {
 		
 	}
 	
-	public void bar2() {
-		
-	}
 }
